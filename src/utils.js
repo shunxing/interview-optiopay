@@ -37,7 +37,7 @@ const fromRoman = romanNumber => {
     }
   }
 
-  return sum.reduce((a, b) => a + b, 0);
+  return sum.reduce((a, b) => a + b, 0) || "";
 };
 export const RomanNumerals = { toRoman, fromRoman };
 

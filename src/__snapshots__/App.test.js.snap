@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="row"
+  >
+    <select
+      onChange={[Function]}
+      value="1"
+    >
+      <option
+        value="1"
+      >
+        Convert a Roman number to an integer
+      </option>
+      <option
+        value="2"
+      >
+        Convert an integer to a Roman number
+      </option>
+    </select>
+  </div>
+  <div
+    className="row"
+  >
+    <input
+      onChange={[Function]}
+      value=""
+    />
+  </div>
+  <button
+    onClick={[Function]}
+  >
+    Translate your number
+  </button>
+</div>
+`;
