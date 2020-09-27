@@ -29,6 +29,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Further improvements
 
 - Improve the coverage of unit tests (especially for the component App)
-- Add e2e testing with Cypress for example
-- Improve the error handling, especially for specifying which kind of validation it needs to have
-- 
+- Add e2e testing (with Cypress for example)
+- Improve the error handling, especially for specifying which kind of error the number has
+
